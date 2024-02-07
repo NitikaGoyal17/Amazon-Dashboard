@@ -1,3 +1,3 @@
 # Amazon Dashboard
 
-![Amazon Dashboard](https://github.com/NitikaGoyal17/Amazon-Dashboard/assets/127024956/c48814cc-d600-4c6e-8adb-87f2cb346a44)
+<img width="740" alt="HR-Analytics Dashboard" src="https://github.com/NitikaGoyal17/Amazon-Dashboard/assets/127024956/449c9028-96f9-4493-aba5-5767855bb6a5">
